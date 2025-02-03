@@ -20,4 +20,6 @@ pip install -r requirements.txt
 GROUP_TOKEN можно создать в настройках сообщества
 
 4) Запустите бота:
+```
 python3 main.py
+```
